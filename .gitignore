@@ -1,0 +1,32 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Cc]rash/
+*.pidb
+*.svd
+
+# Visual Studio
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.tmp
+*.ide
+
+# Ignore packages
+Packages/*/
+!Packages/manifest.json
+!Packages/packages-lock.json
+
+# Others
+*.swp
+.DS_Store
+Thumbs.db
